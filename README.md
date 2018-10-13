@@ -1,7 +1,9 @@
 # gitPractice
 This is a repository for  personal git practicing.
 
-3. test3
+1. test1
+
+2. test2
 
 4. test4
 
