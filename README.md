@@ -6,3 +6,5 @@ This is a repository for  personal git practicing.
 4. test4
 
 6. test6
+
+7. test for stash
