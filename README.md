@@ -10,3 +10,5 @@ This is a repository for  personal git practicing.
 6. test6
 
 7. test for stash
+
+8. test for merge
